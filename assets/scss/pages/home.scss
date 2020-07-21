@@ -1,0 +1,121 @@
+// HEADER SECTION
+
+.overlay {
+    background-color: rgba(0,0,0,.5);
+}
+
+.hero {
+    background-image: url(/img/hero.jpg);
+    border-bottom: 6px solid $brand-color;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    &__features {
+        letter-spacing: 5px;
+    }
+
+    &__box {
+        max-width: 980px;
+        color: white;
+        h1 {
+            font-size: 3.2rem;
+        }
+        h2 {
+            font-size: 1.2rem;
+        }
+        h3 {
+            font-size: 1rem;
+        }
+    }
+}
+
+
+// ABOUT SECTION
+
+.home__about {
+
+    &--heading {
+        position: relative;
+        z-index: 2;
+        font-size: 2rem;
+        color: $brand-color;
+    }
+    &--heading::after {
+        color: #333;
+        content: attr(data-bg-text);
+        display: block;
+        font-size: 100px;
+        line-height: 1;
+        position: absolute;
+        top: -40px;
+        left: -10px;
+        opacity: .1;
+        z-index: 1;
+    }
+
+    &--iconbox {
+        margin: 30px 0px 20px 20px;
+
+        svg {
+            padding-top: 5px;
+        }
+
+        h4 {
+            font-size: 1rem;
+        }
+    }
+}
+
+// PROCESS SECTION
+
+.home__process {
+
+    &--heading {
+        position: relative;
+        z-index: 2;
+        font-size: 2rem;
+        color: $brand-color;
+    }
+    &--heading::after {
+        color: #333;
+        content: attr(data-bg-text);
+        display: block;
+        font-size: 100px;
+        line-height: 1;
+        position: absolute;
+        top: -40px;
+        left: -10px;
+        opacity: .1;
+        z-index: 1;
+    }
+}
+
+// TESTIMONIAL SECTION
+
+.home__testimonials {
+
+    &--heading {
+        position: relative;
+        margin-bottom: 60px;
+        z-index: 2;
+        font-size: 2rem;
+        text-align: center;
+        color: $brand-color;
+    }
+    &--heading::after {
+        text-align: center;
+        color: #333;
+        content: attr(data-bg-text);
+        display: block;
+        font-size: 100px;
+        line-height: 1;
+        position: absolute;
+        top: -40px;
+        left: 20%;
+        opacity: .1;
+        z-index: 1;
+    }
+}
+

@@ -1,0 +1,56 @@
+baseURL = "https://westcoastfreight.netlify.app/"
+languageCode = "en-ca"
+title = "Westcoast Connect Freight - Ucluelet, Tofino, Port Alberni & Nanaimo"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+description = "Building a Biblically Faithful, Gospel Sharing, Anglican Church in Saint-Lazare Québec"
+googleAnalytics = ""
+
+[params]
+    # Schema Information
+    businessname = "Westcoast Connect Freight Inc."
+    type = "LocalBusiness" # Enter Your Type of business - schema.org
+    reviewcount = "5" # How many reviews you've got
+    reviewvalue = "4.5" # Average ratings on Yelp & Google
+    reservation = "false" # Do you accept reservations? Enter true or false
+    openinghour = "Su 9:00-17:00" # Opening Hours
+    address = "228 Villa Rd." # Enter Address Here
+    city = "Nanaimo" # Enter City
+    region = "BC" # Enter State or Province Here
+    country = "Canada" #Enter Country Here
+    postalcode = "V9T 2P5" # Enter Postal Code
+    phone = "+1-250-816-4394" # Enter Phone Number
+    email = "coastalconnectfreight@gmail.com" # Enter Your Email
+    facebookurl = "https://www.facebook.com/SaintLazareAnglican/"
+    instagram = "https://instagram.com/"
+    logo = "img/logo.png"
+    image = "img/og.jpg" # Ideal 1200 x 630 for schema + og
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+    
+
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 2
+
+    [[menu.main]]
+        name = "Services"
+        url = "/services/"
+        weight = 3
+
+    [[menu.main]]
+        name = "FAQ"
+        url = "/faq/"
+        weight = 4
+
+    [[menu.main]]
+        name = "Contact"
+        url = "/contact/"
+        weight = 5
