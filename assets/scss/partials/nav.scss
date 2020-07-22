@@ -1,7 +1,7 @@
 nav {
   a {
     color: black;
-    font-size: 1.25rem;
+    font-size: 1.05rem;
     padding-left: 37px !important;
 
     &:hover {
@@ -12,8 +12,30 @@ nav {
     padding-left: 0px !important;
   }
 }
+.translate {
+  background-color: $brand-color;
+  margin-left: 15px;
+  padding: 10px;
+  transition: all .5s;
+
+  a {
+    color: white !important;
+    padding: 15px !important;
+  }
+  li {
+    padding: 15px;
+  }
+
+  &:hover {
+    background-color: white;
+
+    a {
+      color: $brand-color !important;
+    }
+  }
+}
 .nav-logo {
-    max-width: 200px;
+    max-width: 270px;
 }
 @media (min-width: 768px) {
     .menu-wrap {

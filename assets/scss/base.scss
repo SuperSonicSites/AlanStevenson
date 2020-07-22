@@ -1,4 +1,4 @@
-$brand-color: #0077be;
+$brand-color: #c41313;
 a {
     color: $brand-color;
     transition: all .3s;
@@ -31,6 +31,7 @@ body {
 }
 p {
     color: #888;
+    font-size: 1.2rem;
 }
 svg {
     fill: $brand-color;

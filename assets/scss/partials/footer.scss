@@ -27,6 +27,10 @@
         color: color;
     }
 }
+.footer__address {
+    color: $brand-color;
+}
+
 @media screen and (max-width: 768px) {
     .footer .credit p {
         font-size: 0.9rem;
