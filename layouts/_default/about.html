@@ -2,34 +2,104 @@
 
 {{- partial "subheader.html" . }}
 
-<section class="container py-5 my-5">
-
-    <h2 class="home__process--heading text-uppercase display-4 font-weight-bold" data-bg-text="WHO WE ARE" data-aos="fade-right">WHO WE ARE</h2>
-
-<p class="py-5">{{.Params.whoweare | safeHTML }}</p>
+<section class="container pt-5 mt-5">
 
     <div class="row gx-5">
 
-        <div class="col-lg-6 col-sm-12 py-3 d-flex flex-column align-items-center">
+        <div class="col-lg-5 col-md-12 order-2">
 
-        <img src="https://via.placeholder.com/300" alt="Picture of the team" class="img-fluid d-flex justify-content-center img-thumbnail team-pic mb-2" data-aos="fade-up" data-aos-duration="800">
+            <img src="/img/about_image.png" class="w-100" alt="Alan Stevenson's picture" data-aos="fade-up" data-aos-duration="800">
 
-        <p class="text-left lead about-name">{{.Params.name1}}</p>
+        </div>
 
-        <p class="text-center">{{.Params.name1__desc | safeHTML}}</p>
+        <div class="col-lg-7 col-md-12 order-1">
 
-    </div>
+            <h2 class="">{{ .Params.heading }}</h2>
 
-    <div class="col-lg-6 col-sm-12 py-3 d-flex flex-column align-items-center">
-
-        <img src="https://via.placeholder.com/300" alt="Picture of the team" class="img-fluid d-flex justify-content-center img-thumbnail team-pic mb-2" data-aos="fade-up" data-aos-duration="800">
-      
-        <p class="text-left lead about-name">{{.Params.name2}}</p>
-      
-        <p class="text-center">{{.Params.name2__desc | safeHTML}}</p>
+            <div class="divider my-5 w-25">
     
+                <div class="container"></div>
+        
+            </div>
+
+            <p>{{ .Params.about__desc  | safeHTML }}</p>
+
+        </div>
+
+
+
     </div>
-  
+
+</section>
+
+<section class="about__section container-fluid">
+    
+    <div class="container py-5">
+
+        <div class="d-flex flex-column justify-content-center align-items-center my-5">
+
+        <h2 class="text-center display-5 text-uppercase text-white pb-5">
+
+            {{ .Params.heading2 }}
+    
+        </h2>
+
+
+        <div class="row g-5">
+
+            <div class="col-lg-4 col-md-12">
+
+                <div class="card border-light mb-3" data-aos="fade-up" data-aos-duration="500" data-aos-delay="0">
+
+                    <div class="card-body p-4 shadow-lg">
+
+                      <h5 class="card-title text-dark">{{ .Params.features__heading1 }}</h5>
+
+                      <p class="card-text">{{ .Params.features__desc1 }}</p>
+
+                    </div>
+
+                  </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-12">
+
+                <div class="card border-light mb-3" data-aos="fade-up" data-aos-duration="500" data-aos-delay="500">
+
+                    <div class="card-body p-4 shadow-lg">
+
+                        <h5 class="card-title text-dark">{{ .Params.features__heading2 }}</h5>
+
+                        <p class="card-text">{{ .Params.features__desc2 }}</p>
+
+                    </div>
+
+                  </div>
+
+
+            </div>
+
+            <div class="col-lg-4 col-md-12">
+
+                <div class="card border-light mb-3" data-aos="fade-up" data-aos-duration="500" data-aos-delay="1000">
+
+                    <div class="card-body p-4 shadow-lg">
+
+                        <h5 class="card-title text-dark">{{ .Params.features__heading3 }}</h5>
+
+                        <p class="card-text">{{ .Params.features__desc3 }}</p>
+
+                    </div>
+
+                  </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
     </div>
 
 </section>

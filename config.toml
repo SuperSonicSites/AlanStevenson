@@ -18,7 +18,7 @@ googleAnalytics = ""
         weight = 1
 
         [[languages.fr.menu.main]]
-        name = "à propos"
+        name = "À Propos"
         url = "/a-propos/"
         weight = 2
 

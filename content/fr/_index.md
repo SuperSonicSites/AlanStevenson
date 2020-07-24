@@ -43,6 +43,8 @@ whychoose2__desc: "No industry is static, and insurance is no exception. At Stev
 whychoose3: "Partnerships That Serve You"
 whychoose3__desc: "We understand the importance of building relationships based on respect, trust, and credibility. Over the years we have cultivated a solid network of partners in the insurance and associated industries, with access to the best and most varied products on the market."
 
+testimonials__heading: "Testimonials"
+
 testimonial1: "Renaud Gagne"
 testimonial1__desc: "Incredible caring service and I got my quote so quickly!"
 

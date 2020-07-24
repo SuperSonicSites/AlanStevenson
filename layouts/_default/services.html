@@ -1,0 +1,120 @@
+{{ define "main" }}
+
+{{- partial "subheader.html" . }}
+
+<section class="container py-5 my-lg-5">
+
+    <!-- ASSURANCE HABITATION -->
+
+    <h2 class="pb-5">{{ .Params.homeh1 }}</h2>
+
+    <div class="row g-5">
+
+        <div class="col-lg-6 col-md-12">
+
+            <span class="badge bg-primary">{{ .Params.hometag1 }}</span>
+
+            <br><br>
+
+            <p>{{ .Params.homedesc1 }}</p>
+
+            <span class="badge bg-primary">{{ .Params.hometag2 }}</span>
+
+            <br><br>
+
+            <p>{{ .Params.homedesc2 }}</p>
+
+            {{- partial "button.html" . }}
+              
+        </div>
+
+        <div class="col-lg-6 col-md-12 pb-5">
+
+            <img src="https://via.placeholder.com/640x480" alt="" class="img-fluid shadow">
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- Auto Insurance -->
+
+<section class="container py-5">
+
+    <h2 class="pb-5">{{ .Params.vehicleh1 }}</h2>
+
+    <div class="row g-5">
+
+        <div class="col-lg-6 col-md-12">
+
+            <span class="badge bg-primary">{{ .Params.vehicletag1 }}</span> <span class="badge bg-primary">{{ .Params.vehicletag2 }}</span> <span class="badge bg-primary">{{ .Params.vehicletag3 }}</span>
+            <br></br>
+            <p>{{ .Params.vehicledesc }}</p>
+            {{- partial "button.html" . }}
+    </div>
+
+        <div class="col-lg-6 col-md-12 pb-5">
+
+            <img src="https://via.placeholder.com/640x480" alt="" class="img-fluid shadow">
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- Business Insurance -->
+
+<section class="container pb-5">
+
+    <h2 class="pb-5">{{ .Params.businessh1 }}</h2>
+
+    <div class="row g-5">
+
+        <div class="col-lg-6 col-md-12">
+
+            <span class="badge bg-primary">{{ .Params.businesstag1 }}</span> <span class="badge bg-primary">{{ .Params.businesstag2 }}</span> <span class="badge bg-primary">{{ .Params.businesstag3 }}</span> <span class="badge bg-primary">{{ .Params.businesstag4 }}</span>
+            <br></br>
+            <p>{{ .Params.businessdesc }}</p>
+            {{- partial "button.html" . }}
+    </div>
+
+        <div class="col-lg-6 col-md-12 py-5">
+
+            <img src="https://via.placeholder.com/640x480" alt="" class="img-fluid shadow">
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- Life Insurance -->
+
+<section class="container pb-5">
+
+    <h2 class="pb-5">{{ .Params.lifeh1 }}</h2>
+
+    <div class="row g-5">
+
+        <div class="col-lg-6 col-md-12">
+
+            <span class="badge bg-primary">{{ .Params.lifetag1 }}</span> <span class="badge bg-primary">{{ .Params.lifetag2 }}</span> <span class="badge bg-primary">{{ .Params.lifetag3 }}</span> <span class="badge bg-primary">{{ .Params.lifetag4 }}</span> <span class="badge bg-primary">{{ .Params.lifetag5 }}</span>
+            <br></br>
+            <p>{{ .Params.lifedesc }}</p>
+            {{- partial "button.html" . }}
+    </div>
+
+        <div class="col-lg-6 col-md-12 py-5">
+
+            <img src="https://via.placeholder.com/640x480" alt="" class="img-fluid shadow">
+
+        </div>
+
+    </div>
+
+</section>
+
+
+{{ end }}

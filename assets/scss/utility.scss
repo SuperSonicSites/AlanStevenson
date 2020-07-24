@@ -17,15 +17,29 @@
 }
 
 //
-
+.overlay {
+    background-color: rgba(255,255,255,0.35);
+}
 .subheader {
-    background-image: url(/img/hero.jpg);
+    background-image: url(/img/AlanStevensonHeader.jpg);
     background-position: center;
     background-size: cover;
-    background-attachment: initial;
-    height: 250px;
-    filter: grayscale(50%);
+    height: 370px;
+    margin-top: 120px;
 }
 .bg-brand {
     background-color: $brand-color;
+}
+.card-title {
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid $brand-color;
+}
+.bg-primary {
+    background-color: $brand-color !important;
+}
+.badge {
+    font-size: 1rem !important;
+    font-weight: 400;
+    text-transform: uppercase;
 }

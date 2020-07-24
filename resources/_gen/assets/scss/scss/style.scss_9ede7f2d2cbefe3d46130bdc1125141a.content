@@ -182,10 +182,9 @@ svg {
 .about__subheading {
   max-width: 980px; }
 
-.about .card-title {
-  padding-bottom: 10px;
-  margin-bottom: 15px;
-  border-bottom: 2px solid #c41313; }
+.about__section {
+  background-color: #c41313;
+  color: white; }
 
 .contact__form--info {
   text-align: center;
@@ -267,6 +266,10 @@ nav .navbar-brand {
 
 .nav-logo {
   max-width: 270px; }
+
+@media (max-width: 320px) {
+  .nav-logo {
+    max-width: 220px; } }
 
 @media (min-width: 768px) {
   .menu-wrap {
@@ -465,13 +468,28 @@ nav .navbar-brand {
     border-bottom: 5px solid black;
     margin-bottom: -6px; }
 
+.overlay {
+  background-color: rgba(255, 255, 255, 0.35); }
+
 .subheader {
-  background-image: url(/img/hero.jpg);
+  background-image: url(/img/AlanStevensonHeader.jpg);
   background-position: center;
   background-size: cover;
-  background-attachment: initial;
-  height: 250px;
-  filter: grayscale(50%); }
+  height: 370px;
+  margin-top: 120px; }
 
 .bg-brand {
   background-color: #c41313; }
+
+.card-title {
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #c41313; }
+
+.bg-primary {
+  background-color: #c41313 !important; }
+
+.badge {
+  font-size: 1rem !important;
+  font-weight: 400;
+  text-transform: uppercase; }

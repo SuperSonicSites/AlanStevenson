@@ -16,7 +16,9 @@
     </div>
 
     <div class="hero__img position-absolute">
-        <img src="/img/heroimg.png" class="hero__img--1" alt="" data-aos="fade-up" data-aos-duration="500" data-aos-delay="0">
+
+        <img src="/img/heroimg.png" class="hero__img--1" alt="">
+
     </div>
 
 </div>
@@ -27,7 +29,7 @@
 
     <div class="d-flex flex-column justify-content-center align-items-center">
 
-        <h2 class="solutions__heading text-center">
+        <h2 class="text-center display-5 text-uppercase">
 
             {{ .Params.solutions__heading }}
     
@@ -154,7 +156,7 @@
     
         <div class="d-flex flex-column justify-content-center align-items-center my-5">
 
-            <h2 class="about__heading text-center">
+            <h2 class="text-center display-5 text-uppercase">
     
                 {{ .Params.about__heading2 }}
         
@@ -228,6 +230,7 @@
         </div>
 
 </section>
+
 <section class="bg-brand">
 
     <div class="py-5"></div>
@@ -235,7 +238,15 @@
 
     <div class="container">
 
-        <h2 class="home__testimonials--heading text-uppercase text-white text-center display-4 font-weight-bold pb-5" data-bg-text="Testimonials" data-aos="fade-up">Testimonials</h2>
+        <div class="d-flex flex-column justify-content-center align-items-center my-5">
+
+            <h2 class="text-center display-5 text-uppercase text-white">
+    
+                {{ .Params.testimonials__heading }}
+        
+            </h2>
+
+        </div>
 
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 
