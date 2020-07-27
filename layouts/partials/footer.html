@@ -4,7 +4,16 @@
 
     <h2 class="footer__heading text-white text-center">{{ i18n "freequoteh2" }}</h2>
 
-    <a href="#" class="btn btn-primary mt-4 text-uppercase">{{ i18n "freequote" }}</a>
+    {{ if eq .Site.Language.Lang "fr" }}
+
+    <a href="{{ .Site.BaseURL }}services" class="btn btn-primary my-3" data-aos="zoom-in" data-aos-duration="500">{{ i18n "freequote" }}</a>
+        
+    {{ else }}
+        
+    <a href="{{ .Site.BaseURL }}en/services" class="btn btn-primary my-3" data-aos="zoom-in" data-aos-duration="500">{{ i18n "freequote" }}</a>
+    
+    {{ end }}
+
     </div>
 
     <div class="divider my-5">

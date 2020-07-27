@@ -145,4 +145,4 @@ We recommend that you periodically review this privacy policy to keep yourself i
 
 If you have any questions about this privacy policy, please contact us:
 
-- By email: info@alanstevenson.ca
+- By email: alan@alanstevenson.ca
