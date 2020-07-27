@@ -5,51 +5,43 @@ layout: home
 
 # Hero Header Section
 
-heading0: "Offering our clients"
-heading1: "The Best Coverage <br> At The Best Price"
-heading2: "with the service to back it up"
+heading0: "Nous Offrons"
+heading1: "La Meilleure Protection<br>Au Meilleur Prix"
+heading2: "avec un service à la hauteur de vos attentes"
 
 # Solution Section
 
-solutions__heading: "CUSTOMIZED INSURANCE SOLUTIONS"
+solutions__heading: "DES SOLUTIONS D’ASSURANCE PERSONNALISÉES"
 
-solutions__subheading: "No matter what type of policy you’re looking for, from home or vehicle, to business or life insurance, at Stevenson Insurance & Financial Services, we will find the best products for your needs and budget."
-
-insurance1: "House Insurance"
-
-insurance2: "Car Insurance"
-
-insurance3: "Business Insurance"
-
-insurance4: "Life Insurance"
+solutions__subheading: "Peu importe le type de police que vous recherchez, pour votre véhicule ou votre résidence, pour votre entreprise ou encore une assurance-vie, chez Les assurances et services financiers Stevenson, nous trouverons les meilleurs produits pour répondre à vos besoins tout en respectant votre budget."
 
 # About Section
 
-about__heading: "FOCUS ON WHAT MATTERS AND LET US HELP YOU PROTECT IT"
+about__heading: "CONCENTREZ-VOUS SUR CE QUI IMPORTE ET LAISSEZ-NOUS VOUS AIDER À LE PROTÉGER "
 
-about__subheading: "At Stevenson Insurance & Financial Services, we know life can be hectic. You’re busy with what’s important – your family and friends, your health, your business, your life. Helping you protect those priorities is what we do best. Our business is to give you peace of mind, so you can focus on what matters most."
+about__subheading: "Chez les assurances et services financiers Stevenson, nous savons que la vie peut parfois être mouvementée. Vous êtes occupé avec ce qui vous importe, votre famille et vos amis, votre santé, votre entreprise, votre vie. Vous aider à protéger ces priorités est notre spécialité. Notre objectif est de vous offrir la paix d’esprit, pour que vous puissiez vous concentrer sur ce qui importe le plus."
 
-about__heading2: "WHY CHOOSE STEVENSON INSURANCE & FINANCIAL SERVICES?"
+about__heading2: "POURQUOI CHOISIR LES ASSURANCES ET SERVICES FINANCIERS STEVENSON?"
 
-about__subheading2: "We pride ourselves on customer service excellence based on thorough knowledge of the insurance industry, expertise in personal, commercial and specialized lines of business, a credible reputation, and most of all, a committed focus on what matters most to you."
+about__subheading2: "Nous sommes fiers d’offrir un excellent service à la clientèle basé sur notre connaissance approfondie de l’industrie des assurances, notre expertise en entreprises personnelles, commerciales et spécialisées, notre excellente réputation et, surtout, un engagement soutenu envers ce qui vous importe le plus."
 
 # Why Choose
-whychoose1: "Customer Service Excellence"
-whychoose1__desc: "We take the time to listen to, educate, and collaborate with our customers because we want you to make informed decisions about the products that best suit your needs and budget. And we won’t stop there. We follow through for our customers and will be there to support you if ever, and whenever you need us."
+whychoose1: "Excellent service à la clientèle"
+whychoose1__desc: "Nous prenons le temps d’écouter, de renseigner et de collaborer avec nos clients car nous voulons que vous preniez une décision éclairée concernant les meilleurs produits qui répondent à vos besoins tout en respectant votre budget. Et nous ne nous arrêtons pas là. Nous effectuons le suivi pour nos clients et nous serons là pour vous soutenir si jamais, et lorsque vous aurez besoin de nous."
 
-whychoose2: "Solid Industry Knowledge"
-whychoose2__desc: "No industry is static, and insurance is no exception. At Stevenson Insurance & Financial Services, we make it a priority to stay ahead of the game, with respect to market, insurance, or technology trends and innovations, new products and services, or adapting to changes in standards and regulations. We know our business inside and out and we bring that knowledge to every solution we offer our clients."
+whychoose2: "Un partenariat à votre avantage"
+whychoose2__desc: "Nous comprenons l’importance d’établir des relations basées sur le respect, la confiance et la crédibilité. Au fil des années, nous avons développé un solide réseau de partenaires en assurances et dans les industries qui y sont associées, et nous avons accès aux produits qui sont les meilleurs et les plus variés sur le marché."
 
-whychoose3: "Partnerships That Serve You"
-whychoose3__desc: "We understand the importance of building relationships based on respect, trust, and credibility. Over the years we have cultivated a solid network of partners in the insurance and associated industries, with access to the best and most varied products on the market."
+whychoose3: "Connaissance approfondie de l’industrie"
+whychoose3__desc: "Aucune industrie n’est statique et les assurances n’y font pas exception. Chez Les assurances et services financiers Stevenson, nous nous assurons de conserver une longueur d’avance sur le marché, les assurances, les innovations et tendances technologiques, les nouveaux produits et services, ou les changements aux normes et à la réglementation. Nous connaissons tous les aspects de notre industrie et nous utilisons ces connaissances pour élaborer chacune des solutions que nous offrons à nos clients."
 
-testimonials__heading: "Testimonials"
+testimonials__heading: "Témoignage"
 
 testimonial1: "Renaud Gagne"
-testimonial1__desc: "Incredible caring service and I got my quote so quickly!"
+testimonial1__desc: "Alan est un courtier incroyable et je le recommende à tout le monde."
 
-testimonial2:
-testimonial2__desc:
+testimonial2: "Emily"
+testimonial2__desc: "Alan m'a tout de suite mis à l'aise et j'ai vite eu l'impression d'être assis avec un ami autour d'un café."
 
 testimonial3:
 testimonial3__desc:

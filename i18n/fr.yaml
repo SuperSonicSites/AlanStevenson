@@ -42,7 +42,7 @@
 - id: homeinsurance
   translation: "assurance habitation"
 - id: businessinsurance
-  translation: "assurance d'entreprise"
+  translation: "assurance entreprise"
 - id: lifeinsurance
   translation: "assurance vie"
 - id: criticalillness

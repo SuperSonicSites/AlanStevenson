@@ -6,20 +6,20 @@ slug: "a-propos"
 
 # Content
 
-heading: "WORKING WITH OUR CLIENTS TO FIND THE BEST SOLUTIONS FOR THEIR NEEDS"
-about__desc: "Stevenson Insurance & Financial Services is an independent insurance brokerage firm in the Vaudreuil-Soulanges region of Quebec. The company is owned and operated by Alan Stevenson, a seasoned professional insurance broker with an outstanding reputation among customers, peers, as well as within the community. A reputation that’s based on proven customer service excellence, solid industry knowledge, and authentic relationship-building.</p>
+heading: "NOUS TRAVAILLONS AVEC NOS CLIENTS POUR TROUVER LES MEILLEURES SOLUTIONS QUI RÉPONDENT À LEURS BESOINS"
+about__desc: "Les assurances et services financiers Stevenson est une firme de courtiers indépendants située dans la région de Vaudreuil-Soulanges au Québec. L’entreprise est détenue et gérée par Alan Stevenson, un courtier d’assurance chevronné et professionnel qui s’est bâti une réputation exceptionnelle auprès de ses clients, ses pairs ainsi que dans sa communauté; une réputation basée sur un service à la clientèle éprouvé, une solide connaissance de l’industrie et le développement de relations authentiques.</p>
 <br>
-<p>At Stevenson Insurance & Financial Services we don’t just work for you, we work with you, making it our business to fully understand your situation and priorities, so we can offer you the products and solutions to suit your needs and budget. We also work to ensure that you fully understand those products and solutions so that you can make informed decisions about what is best for you, your family, and your business.</p>
+<p>Chez les assurances et services financiers Stevenson, nous ne travaillons pas seulement pour vous, nous travaillons avec vous. Nous nous assurons de parfaitement comprendre votre situation et vos priorités, afin de pouvoir vous offrir les produits et les solutions qui répondent à vos besoins tout en respectant votre budget. Nous nous assurons également que vous compreniez parfaitement ces produits et solutions afin que vous puissiez prendre la meilleure décision éclairée pour vous, votre famille et votre entreprise.</p>
 <br>"
 
-heading2: "CUSTOMER SERVICE THAT STANDS OUT"
+heading2: "UN SERVICE À LA CLIENTÈLE QUI SE DÉMARQUE"
 
-features__heading1: "QUICK RESPONSE TIME"
-features__desc1: "We pride ourselves on our ability to respond quickly and decisively to the needs of our customers. Whether for a quote or help with a claim, we’re here for you when you need us."
+features__heading1: "Un temps de réponse rapide"
+features__desc1: "Nous sommes fiers de notre capacité à répondre rapidement et de façon décisive aux besoins de nos clients. Que ce soit pour une soumission ou pour vous aider avec une réclamation, nous sommes là pour vous aider lorsque vous avez besoin de nous."
 
-features__heading2: "THE BEST PRODUCTS"
-features__desc2: "We get to know our customers and work hard to find and offer them only the best products based on their needs and budget, providing them with the peace of mind to focus on what matters."
+features__heading2: "Les meilleurs produits à un prix qui respecte votre budget"
+features__desc2: "Nous apprenons à connaitre nos clients et ne ménageons aucun effort pour trouver et leur offrir les meilleurs produits en fonction de leurs besoins et de leur budget, et ainsi leur offrir la paix d’esprit pour qu’ils puissent se concentrer sur ce qui leur importe."
 
-features__heading3: "SPECIALIZED KNOWLEDGE"
-features__desc3: "We know the market and industry and stay on top of the trends, staying ahead of the curve and passing that knowledge along to our clients so they can make the best decisions for their needs."
+features__heading3: "Connaissance du marché et de l’industrie"
+features__desc3: "Nous connaissons le marché et l’industrie et nous nous tenons au fait des tendances, conservant une longueur d’avance et transmettant ces connaissances à nos clients pour qu’ils puissent prendre la meilleure décision en fonction de leurs besoins."
 ---

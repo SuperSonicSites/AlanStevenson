@@ -133,7 +133,7 @@ svg {
       color: white;
       z-index: 10; }
       .hero__box h1 {
-        font-size: 4.75rem;
+        font-size: 4.25rem;
         font-weight: normal !important;
         letter-spacing: 3px; }
       .hero__box h2 {
@@ -485,7 +485,8 @@ nav .navbar-brand {
 .card-title {
   padding-bottom: 10px;
   margin-bottom: 15px;
-  border-bottom: 2px solid #c41313; }
+  border-bottom: 2px solid #c41313;
+  font-size: 1rem; }
 
 .bg-primary {
   background-color: #c41313 !important; }
@@ -498,3 +499,6 @@ nav .navbar-brand {
 
 .text-shadow {
   text-shadow: 1px 1px 10px black; }
+
+.testimonial-img {
+  max-width: 150px; }

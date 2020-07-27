@@ -1,50 +1,50 @@
 ---
-title: "Products And Services"
+title: "PRODUITS ET SERVICES"
 description: "Lorem Ipsum"
 layout: services
 
-homeh1: "HOME INSURANCE"
+homeh1: "ASSURANCE HABITATION"
 
-hometag1: "Primary Residence"
+hometag1: "Résidence principale"
 
-homedesc1: "Your home is the single most significant investment you’ll ever make, so finding the right coverage is important for your peace of mind. Whether for a single-family residence, a condominium, town house or apartment, we’ll help you find the best product to protect your property. And knowing your home is covered for theft or vandalism, fire or flood, will help you rest a little easier at night. Contact us to discuss how we can help you keep your home safe."
+homedesc1: "Votre résidence est l’investissement le plus important que vous ferez, il est donc important de trouver la bonne protection pour votre paix d’esprit. Qu’il s’agisse d’une résidence unifamiliale, un condominium, une maison en rangée ou un appartement, nous vous aiderons à trouver le meilleur produit pour protéger votre propriété. Vous dormirez mieux sachant que votre résidence est protégée contre le vol, le vandalisme, le feu ou les inondations. Contactez-nous pour découvrir comment nous pouvons vous aider à garder votre résidence en sécurité."
 
-hometag2: "Income Property"
+hometag2: "Immeuble à revenu"
 
-homedesc2: "Do you own an income property for long- or short-term rental? Insuring this type of holding comes with its own special set of criteria, and knowing your options will be key to safeguard your investment. Make an appointment with us to find out how we can help."
+homedesc2: "Possédez-vous un immeuble à revenu pour des locations à court ou à long terme? Assurer ce genre de propriété implique certains critères spécifiques et bien comprendre vos options vous permettra de protéger votre investissement. Prenez rendez-vous avec nous pour découvrir comment nous pouvons vous aider."
 
 homelink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=COURTAS&LANG=FR&LOB=PROP"
 
-vehicleh1: "VEHICLE INSURANCE"
+vehicleh1: "ASSURANCE AUTOMOBILE"
 
-vehicletag1: "Car"
-vehicletag2: "Recreational"
-vehicletag3: "Boat"
+vehicletag1: "Voiture"
+vehicletag2: "Recreationel"
+vehicletag3: "Bateau"
 
-vehicledesc: "Whether you own a car, recreational vehicle, boat, truck, or any other type of vehicle, we’ll find the best solution for your needs. Rest easy knowing that your vehicle is protected in the event of theft, vandalism or accidents. Even if you don’t have the best track record, due to circumstances like DUIs, or prior claims, we can help. Call us to find out how."
+vehicledesc: "Que vous possédiez une voiture, un véhicule récréatif, un bateau, un camion ou tout autre type de véhicule, nous trouverons la meilleure solution pour répondre à vos besoins. Vous pourrez dormir tranquille, sachant que votre véhicule est protégé en cas de vol, vandalisme ou accident. Même si vous n’avez pas le meilleur dossier de conduite, dû à des circonstances comme une conduite avec les facultés affaiblies ou des réclamations antérieures, nous pouvons vous aider. Appelez-nous pour découvrir comment."
 
 carlink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=COURTAS&LANG=EN&LOB=AUTO"
 
-businessh1: "BUSINESS INSURANCE"
+businessh1: "ASSURANCE DES ENTREPRISES"
 
-businesstag1: "Liability"
-businesstag2: "Property"
-businesstag3: "Product"
-businesstag4: "Home-Based"
+businesstag1: "Responsabilité"
+businesstag2: "Propriété"
+businesstag3: "Produit"
+businesstag4: "À domicile"
 
-businessdesc: "We understand the hard work that goes into running a business and protecting it should be a priority. Regardless of your business model, be it product, or service-based, and no matter what type of insurance you need, be it liability, property, product, home-based or other, we can find the best solutions and products, tailored to your specific business and requirements."
+businessdesc: "Nous comprenons que vous mettez beaucoup d’efforts dans votre entreprise et la protéger devrait être une priorité. Peu importe votre modèle d’entreprise, qu’il s’agisse d’un produit ou d’un service, et quel que soit le type d’assurances dont vous ayez besoin, qu’il s’agisse d’assurance responsabilité, de propriété, pour une entreprise à domicile ou autre, nous pouvons trouver les meilleurs produits et solutions adaptés à votre entreprise et à vos besoins spécifiques."
 
 bizlink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=COURTAS&LANG=FR&LOB=PROP"
 
-lifeh1: "LIFE INSURANCE"
+lifeh1: "ASSURANCE-VIE"
 
-lifetag1: "Whole Life"
-lifetag2: "Universal"
-lifetag3: "Term"
-lifetag4: "Critical Illness"
-lifetag5: "Disability"
+lifetag1: "Vie Entiere"
+lifetag2: "Universel"
+lifetag3: "Terme"
+lifetag4: "Maladie critique"
+lifetag5: "Invalidité"
 
-lifedesc: "We never know what life might send our way and we know how important it is for you to protect those you love. We offer a full suite of product offerings to safeguard you & your loved ones in the event of the unplanned and the unexpected. From whole, universal, or term life insurance, to critical illness and disability insurance, we can help you find the best policies for your peace of mind."
+lifedesc: "Nous ne pouvons jamais prédire ce que la vie nous réserve et nous savons comment il est important de protéger vos proches. Notre offrons une gamme complète de produits pour vous protéger, vous et vos proches, advenant une situation imprévue ou inattendue. Qu’il s’agisse d’une assurance-vie entière, universelle ou temporaire, d’une assurance contre les maladies graves ou une assurance invalidité, nous pouvons vous aider à trouver les meilleures polices pour garantir votre paix d’esprit."
 
 lifelink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=COURTAS&LANG=FR&LOB=PROP"
 

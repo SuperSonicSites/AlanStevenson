@@ -48,8 +48,8 @@ testimonials__heading: "Testimonials"
 testimonial1: "Renaud Gagne"
 testimonial1__desc: "Incredible caring service and I got my quote so quickly!"
 
-testimonial2:
-testimonial2__desc:
+testimonial2: "Emily"
+testimonial2__desc: "When you meet Alan, what becomes immediately clear is that he loves people. Alan put me at ease right away, and I soon felt like I was sitting down with a friend over coffee."
 
 testimonial3:
 testimonial3__desc:
