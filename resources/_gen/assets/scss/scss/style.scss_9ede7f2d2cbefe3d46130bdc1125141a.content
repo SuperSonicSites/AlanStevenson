@@ -476,7 +476,8 @@ nav .navbar-brand {
   background-position: center;
   background-size: cover;
   height: 370px;
-  margin-top: 120px; }
+  margin-top: 120px;
+  border-bottom: 6px solid #c41313; }
 
 .bg-brand {
   background-color: #c41313; }
@@ -492,4 +493,5 @@ nav .navbar-brand {
 .badge {
   font-size: 1rem !important;
   font-weight: 400;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  margin: 10px 0; }

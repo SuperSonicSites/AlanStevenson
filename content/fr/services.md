@@ -3,7 +3,7 @@ title: "Products And Services"
 description: "Lorem Ipsum"
 layout: services
 
-homeh1: "ASSURANCE AUTOMOBILE"
+homeh1: "HOME INSURANCE"
 
 hometag1: "Primary Residence"
 

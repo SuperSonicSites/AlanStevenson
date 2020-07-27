@@ -16,7 +16,7 @@
   <div class="row gx-5 py-5">
 
     <div class="col-lg-3 col-md-6 col-sm-12 mb-5">
-      <img src="{{ .Site.BaseURL}}/{{ .Site.Params.logo }}" alt="{{ .Site.Params.businessname }}" class="logo">
+      <img src="{{ .Site.BaseURL }}/{{ .Site.Params.logo }}" alt="{{ .Site.Params.businessname }}" class="logo">
     </div>
 
     <div class="col-lg-3 col-md-6 col-sm-12 mb-5">
@@ -26,17 +26,17 @@
        
         <ol class="list-unstyled">
 
-          <li><a href="{{ .Site.BaseURL}}/services" class="footer__link text-uppercase">{{ i18n "autoinsurance" }}</a></li>
+          <li><a href="{{ .Site.BaseURL | relLangURL }}/services/#auto" class="footer__link text-uppercase">{{ i18n "autoinsurance" }}</a></li>
 
-          <li><a href="{{ .Site.BaseURL}}/services" class="footer__link text-uppercase">{{ i18n "homeinsurance" }}</a></li>
+          <li><a href="{{ .Site.BaseURL | relLangURL }}/services#home" class="footer__link text-uppercase">{{ i18n "homeinsurance" }}</a></li>
 
-          <li><a href="{{ .Site.BaseURL}}/services" class="footer__link text-uppercase">{{ i18n "businessinsurance" }}</a></li>
+          <li><a href="{{ .Site.BaseURL | relLangURL }}/services#business" class="footer__link text-uppercase">{{ i18n "businessinsurance" }}</a></li>
 
-          <li><a href="{{ .Site.BaseURL}}/services" class="footer__link text-uppercase">{{ i18n "lifeinsurance" }}</a></li>
+          <li><a href="{{ .Site.BaseURL | relLangURL }}/services/#life" class="footer__link text-uppercase">{{ i18n "lifeinsurance" }}</a></li>
 
-          <li><a href="{{ .Site.BaseURL}}/services" class="footer__link text-uppercase">{{ i18n "criticalillness" }}</a></li>
+          <li><a href="{{ .Site.BaseURL | relLangURL }}/services#life" class="footer__link text-uppercase">{{ i18n "criticalillness" }}</a></li>
 
-          <li><a href="{{ .Site.BaseURL}}/services" class="footer__link text-uppercase">{{ i18n "disabilityinsurance" }}</a></li>
+          <li><a href="{{ .Site.BaseURL | relLangURL }}/services#life" class="footer__link text-uppercase">{{ i18n "disabilityinsurance" }}</a></li>
 
         </ol>
 
@@ -49,9 +49,9 @@
 
         <ol class="list-unstyled">
 
-          <li><a href="{{ .Site.BaseURL}}/about" class="footer__link text-uppercase">{{ i18n "aboutus" }}</a></li>
+          <li><a href="{{ .Site.BaseURL | relLangURL }}/about" class="footer__link text-uppercase">{{ i18n "aboutus" }}</a></li>
 
-          <li><a href="{{ .Site.BaseURL}}/privacy-policy" class="footer__link text-uppercase">{{ i18n "privacypolicy" }}</a></li>
+          <li><a href="{{ .Site.BaseURL | relLangURL }}/privacy-policy" class="footer__link text-uppercase">{{ i18n "privacypolicy" }}</a></li>
 
         </ol>
 
@@ -81,7 +81,7 @@
 <div class="credit py-3 text-white">
       <div class="container d-flex flex-lg-row justify-content-lg-between flex-column align-items-center">
         <div class="pr-lg-2">
-          <p>Copyright © {{ dateFormat "2006" now }} - <a class="" href="/privacy-policy">{{ i18n "privacypolicy" }}</a> </p>
+          <p>Copyright © {{ dateFormat "2006" now }} - <a class="" href="{{ .Site.BaseURL | relLangURL }}/privacy-policy">{{ i18n "privacypolicy" }}</a> </p>
         </div>   
 
         <div>

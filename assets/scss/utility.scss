@@ -26,6 +26,7 @@
     background-size: cover;
     height: 370px;
     margin-top: 120px;
+    border-bottom: 6px solid $brand-color;
 }
 .bg-brand {
     background-color: $brand-color;
@@ -42,4 +43,6 @@
     font-size: 1rem !important;
     font-weight: 400;
     text-transform: uppercase;
+    margin: 10px 0;
 }
+
