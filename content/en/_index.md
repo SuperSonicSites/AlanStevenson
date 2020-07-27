@@ -5,39 +5,53 @@ layout: home
 
 # Hero Header Section
 
-heading1: "The West Coast's Daily Freight & Delivery Service"
-heading2: "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-headingbullet: "Feature 1 - Feature 2 - Feature 3"
+heading0: "Offering our clients"
+heading1: "The Best Coverage <br> At The Best Price"
+heading2: "with the service to back it up"
+
+# Solution Section
+
+solutions__heading: "CUSTOMIZED INSURANCE SOLUTIONS"
+
+solutions__subheading: "No matter what type of policy you’re looking for, from home or vehicle, to business or life insurance, at Stevenson Insurance & Financial Services, we will find the best products for your needs and budget."
+
+insurance1: "House Insurance"
+
+insurance2: "Car Insurance"
+
+insurance3: "Business Insurance"
+
+insurance4: "Life Insurance"
 
 # About Section
 
-about_text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+about__heading: "FOCUS ON WHAT MATTERS AND LET US HELP YOU PROTECT IT"
 
-benefit1: "Lorem One"
-benefit1_text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+about__subheading: "At Stevenson Insurance & Financial Services, we know life can be hectic. You’re busy with what’s important – your family and friends, your health, your business, your life. Helping you protect those priorities is what we do best. Our business is to give you peace of mind, so you can focus on what matters most."
 
-benefit2: "Lorem Two"
-benefit2_text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+about__heading2: "WHY CHOOSE STEVENSON INSURANCE & FINANCIAL SERVICES?"
 
-benefit3: "Lorem Three"
-benefit2_text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+about__subheading2: "We pride ourselves on customer service excellence based on thorough knowledge of the insurance industry, expertise in personal, commercial and specialized lines of business, a credible reputation, and most of all, a committed focus on what matters most to you."
 
-# Calculate Section
+# Why Choose
+whychoose1: "Customer Service Excellence"
+whychoose1__desc: "We take the time to listen to, educate, and collaborate with our customers because we want you to make informed decisions about the products that best suit your needs and budget. And we won’t stop there. We follow through for our customers and will be there to support you if ever, and whenever you need us."
 
-process_text1: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+whychoose2: "Solid Industry Knowledge"
+whychoose2__desc: "No industry is static, and insurance is no exception. At Stevenson Insurance & Financial Services, we make it a priority to stay ahead of the game, with respect to market, insurance, or technology trends and innovations, new products and services, or adapting to changes in standards and regulations. We know our business inside and out and we bring that knowledge to every solution we offer our clients."
 
-process_text2: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+whychoose3: "Partnerships That Serve You"
+whychoose3__desc: "We understand the importance of building relationships based on respect, trust, and credibility. Over the years we have cultivated a solid network of partners in the insurance and associated industries, with access to the best and most varied products on the market."
 
-process_text3: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+testimonials__heading: "Testimonials"
 
-# Testimonial Section
+testimonial1: "Renaud Gagne"
+testimonial1__desc: "Incredible caring service and I got my quote so quickly!"
 
-testimonial1: "Lorem Ipsum"
-testimonial1__desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+testimonial2:
+testimonial2__desc:
 
-testimonial2: "Lorem Ipsum"
-testimonial2__desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+testimonial3:
+testimonial3__desc:
 
-testimonial3: "Lorem Ipsum"
-testimonial3__desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
 ---

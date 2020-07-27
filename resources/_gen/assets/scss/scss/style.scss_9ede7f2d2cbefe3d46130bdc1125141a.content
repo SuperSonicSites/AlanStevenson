@@ -117,7 +117,7 @@ svg {
       bottom: 0px;
       right: 0%;
       z-index: 5;
-      width: 55%; }
+      width: 35%; }
       .hero__img--1 {
         width: 100% !important; } }
 
@@ -133,20 +133,20 @@ svg {
       color: white;
       z-index: 10; }
       .hero__box h1 {
-        font-size: 3.25rem;
+        font-size: 4.75rem;
         font-weight: normal !important;
         letter-spacing: 3px; }
       .hero__box h2 {
-        font-size: 1.5rem;
+        font-size: 2rem;
         letter-spacing: 3px; }
       .hero__box h3 {
-        font-size: 1.5rem;
+        font-size: 2rem;
         letter-spacing: 3px; }
     .hero__img {
       bottom: 0px;
-      right: 3%;
+      right: 0%;
       z-index: 5;
-      width: 35% !important; } }
+      width: 28% !important; } }
 
 @media (min-width: 1980px) {
   .hero {
@@ -171,10 +171,10 @@ svg {
         letter-spacing: 3px; }
     .hero__img {
       bottom: 0px;
-      right: 3%;
+      right: 0%;
       z-index: 5; }
       .hero__img--1 {
-        width: 80% !important; } }
+        width: 60% !important; } }
 
 .solutions__subheading {
   max-width: 980px; }
@@ -469,10 +469,10 @@ nav .navbar-brand {
     margin-bottom: -6px; }
 
 .overlay {
-  background-color: rgba(255, 255, 255, 0.35); }
+  background-color: rgba(255, 255, 255, 0.65); }
 
 .subheader {
-  background-image: url(/img/AlanStevensonHeader.jpg);
+  background-image: url(/img/banner.jpg);
   background-position: center;
   background-size: cover;
   height: 370px;
@@ -495,3 +495,6 @@ nav .navbar-brand {
   font-weight: 400;
   text-transform: uppercase;
   margin: 10px 0; }
+
+.text-shadow {
+  text-shadow: 1px 1px 10px black; }

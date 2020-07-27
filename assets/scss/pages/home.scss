@@ -80,7 +80,7 @@
         bottom: 0px;
         right: 0%;
         z-index: 5;
-        width: 55%;
+        width: 35%;
 
         &--1 {
             width: 100% !important;
@@ -105,24 +105,24 @@
         color: white;
         z-index: 10;
         h1 {
-            font-size: 3.25rem;
+            font-size: 4.75rem;
             font-weight: normal !important;
             letter-spacing: 3px;
         }
         h2 {
-            font-size: 1.5rem;
+            font-size: 2rem;
             letter-spacing: 3px;
         }
         h3 {
-            font-size: 1.5rem;
+            font-size: 2rem;
             letter-spacing: 3px;
         }
     }
     &__img {
         bottom: 0px;
-        right: 3%;
+        right: 0%;
         z-index: 5;
-        width: 35% !important;
+        width: 28% !important;
     }
 }
 }
@@ -159,11 +159,11 @@
     }
     &__img {
         bottom: 0px;
-        right: 3%;
+        right: 0%;
         z-index: 5;
         
         &--1 {
-            width: 80% !important;
+            width: 60% !important;
         }
     }
 }

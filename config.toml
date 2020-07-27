@@ -1,8 +1,8 @@
-baseURL = "https://alanstevenson.netlify.app/"
+baseURL = "/"
 DefaultContentLanguage = "fr"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 googleAnalytics = ""
-
+relativeURLs = true
 
 [languages]
 

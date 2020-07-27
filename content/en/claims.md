@@ -1,6 +1,5 @@
 ---
-title: "Réclamation"
+title: "Insurance Claims"
 description: "Lorem Ipsum"
 layout: claims
-slug: "reclamations"
 ---
