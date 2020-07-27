@@ -146,7 +146,7 @@ svg {
       bottom: 0px;
       right: 0%;
       z-index: 5;
-      width: 28% !important; } }
+      width: 30% !important; } }
 
 @media (min-width: 1980px) {
   .hero {
