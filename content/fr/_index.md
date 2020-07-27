@@ -29,11 +29,11 @@ about__subheading2: "Nous sommes fiers d’offrir un excellent service à la cli
 whychoose1: "Excellent service à la clientèle"
 whychoose1__desc: "Nous prenons le temps d’écouter, de renseigner et de collaborer avec nos clients car nous voulons que vous preniez une décision éclairée concernant les meilleurs produits qui répondent à vos besoins tout en respectant votre budget. Et nous ne nous arrêtons pas là. Nous effectuons le suivi pour nos clients et nous serons là pour vous soutenir si jamais, et lorsque vous aurez besoin de nous."
 
-whychoose2: "Un partenariat à votre avantage"
-whychoose2__desc: "Nous comprenons l’importance d’établir des relations basées sur le respect, la confiance et la crédibilité. Au fil des années, nous avons développé un solide réseau de partenaires en assurances et dans les industries qui y sont associées, et nous avons accès aux produits qui sont les meilleurs et les plus variés sur le marché."
+whychoose3: "Un partenariat à votre avantage"
+whychoose3__desc: "Nous comprenons l’importance d’établir des relations basées sur le respect, la confiance et la crédibilité. Au fil des années, nous avons développé un solide réseau de partenaires en assurances et dans les industries qui y sont associées, et nous avons accès aux produits qui sont les meilleurs et les plus variés sur le marché."
 
-whychoose3: "Connaissance approfondie de l’industrie"
-whychoose3__desc: "Aucune industrie n’est statique et les assurances n’y font pas exception. Chez Les assurances et services financiers Stevenson, nous nous assurons de conserver une longueur d’avance sur le marché, les assurances, les innovations et tendances technologiques, les nouveaux produits et services, ou les changements aux normes et à la réglementation. Nous connaissons tous les aspects de notre industrie et nous utilisons ces connaissances pour élaborer chacune des solutions que nous offrons à nos clients."
+whychoose2: "Connaissance approfondie de l’industrie"
+whychoose2__desc: "Aucune industrie n’est statique et les assurances n’y font pas exception. Chez Les assurances et services financiers Stevenson, nous nous assurons de conserver une longueur d’avance sur le marché, les assurances, les innovations et tendances technologiques, les nouveaux produits et services, ou les changements aux normes et à la réglementation. Nous connaissons tous les aspects de notre industrie et nous utilisons ces connaissances pour élaborer chacune des solutions que nous offrons à nos clients."
 
 testimonials__heading: "Témoignage"
 
