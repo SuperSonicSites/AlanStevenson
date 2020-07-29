@@ -1,6 +1,7 @@
 ---
-title: "About Us"
-description: "Lorem Ipsum"
+title: "Learn More About Alan Stevenson Insurances & Financial Services"
+description: "Working with our clients to find the best solutions for their needs."
+bannerh1: "About Us"
 layout: about
 
 # Content

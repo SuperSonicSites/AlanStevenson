@@ -1,6 +1,6 @@
 ---
-title: "Homepage"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+title: "Homepage: Alan Stevenson Insurances & Financial Services"
+description: "Offering our clients the best coverage at the best price with the service to back it up. Visit our website to get your free quote on your insurance."
 layout: home
 
 # Hero Header Section

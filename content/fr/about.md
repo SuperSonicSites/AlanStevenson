@@ -1,6 +1,7 @@
 ---
-title: "About Us"
-description: "Lorem Ipsum"
+title: "À Propos de Alan Stevenson Assurances & Services Financiers"
+description: "Nous travaillons avec nos clients pour trouver les meilleurs solutions qui répondent à leurs besoins."
+bannerh1: "À Propos"
 layout: about
 slug: "a-propos"
 

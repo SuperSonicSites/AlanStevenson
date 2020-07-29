@@ -1,5 +1,6 @@
 ---
 title: Politique de Confidentialité
+bannerh1: "Politique de Confidentialité"
 layout: privacy-policy
 ---
 ## Politique de Confidentialité

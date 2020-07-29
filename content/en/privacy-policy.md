@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 layout: privacy-policy
+bannerh1: "Privacy Policy"
 ---
 ## PRIVACY POLICY
 

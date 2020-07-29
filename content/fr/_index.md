@@ -1,6 +1,6 @@
 ---
-title: "Homepage"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+title: "Accueil: Alan Stevenson Assurances & Services Financiers"
+description: "Nous offrons à nos clients la meilleure couverture au meilleur prix avec le service pour le prouver. Visitez notre site Web pour obtenir votre devis gratuit directement en ligne."
 layout: home
 
 # Hero Header Section

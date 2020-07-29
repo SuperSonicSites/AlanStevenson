@@ -1,5 +1,6 @@
 ---
-title: "PRODUITS ET SERVICES"
+title: "Produits et Services de Alan Stevenson Assurances & Services Financiers"
+bannerh1: "PRODUITS ET SERVICES"
 description: "Lorem Ipsum"
 layout: services
 
