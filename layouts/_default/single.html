@@ -16,7 +16,7 @@
 
 <section class="py-5 my-5 container">
 
-    <h1 class="display-4">{{ .Content }}</h1>
+    <h1 class="display-4">{{ .Params.message }}</h1>
 
     {{ if eq .Site.Language.Lang "fr" }}
 
