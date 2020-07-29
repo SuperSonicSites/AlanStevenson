@@ -14,7 +14,7 @@
 
           <div class="pr-3 contact__form--info text-left">
 
-            <h2 class="pb-2 text-uppercase">{{.Title}}</h2>
+            <h2 class="pb-2 text-uppercase">{{ i18n "contactus" }}</h2>
 
             <form id="contact-form" method="POST" action="https://usebasin.com/f/5e3704f7e135" role="form">
     
@@ -28,7 +28,7 @@
 
                     <div class="form-group">
 
-                      <label for="form_name">First Name *</label>
+                      <label for="form_name">{{ i18n "firstname" }} *</label>
 
                       <input id="form_name" type="text" name="name" class="form-control" required="required" data-error="Firstname is required.">
 
@@ -42,7 +42,7 @@
 
                     <div class="form-group">
 
-                      <label for="form_lastname">Last Name *</label>
+                      <label for="form_lastname">{{ i18n "lastname" }} *</label>
 
                       <input id="form_lastname" type="text" name="surname" class="form-control" required="required" data-error="Lastname is required.">
 
@@ -60,7 +60,7 @@
 
                     <div class="form-group">
 
-                      <label for="form_email">Email *</label>
+                      <label for="form_email">{{ i18n "email" }} *</label>
 
                       <input id="form_email" type="email" name="email" class="form-control"  required="required" data-error="Valid email is required.">
 
@@ -74,7 +74,7 @@
 
                     <div class="form-group">
 
-                      <label for="form_phone">Phone</label>
+                      <label for="form_phone">{{ i18n "phone" }}</label>
 
                       <input id="form_phone" type="tel" name="phone" class="form-control" >
 
@@ -120,7 +120,7 @@
 
       <div class="col-lg-6 col-md-6 col-sm-12 contact__form--info text-left">
 
-        <h2 class="pb-2 text-uppercase">Contact Details</h2>
+        <h2 class="pb-2 text-uppercase">{{ i18n "contactdetail" }}</h2>
 
         <div class="contact__detail">
 
