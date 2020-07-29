@@ -13,6 +13,8 @@ hometag2: "Income Property"
 
 homedesc2: "Do you own an income property for long- or short-term rental? Insuring this type of holding comes with its own special set of criteria, and knowing your options will be key to safeguard your investment. Make an appointment with us to find out how we can help."
 
+homelink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=COURTAS&LANG=EN&LOB=PROP"
+
 vehicleh1: "VEHICLE INSURANCE"
 
 vehicletag1: "Car"
@@ -20,6 +22,8 @@ vehicletag2: "Recreational"
 vehicletag3: "Boat"
 
 vehicledesc: "Whether you own a car, recreational vehicle, boat, truck, or any other type of vehicle, we’ll find the best solution for your needs. Rest easy knowing that your vehicle is protected in the event of theft, vandalism or accidents. Even if you don’t have the best track record, due to circumstances like DUIs, or prior claims, we can help. Call us to find out how."
+
+carlink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=COURTAS&LANG=EN&LOB=AUTO"
 
 businessh1: "BUSINESS INSURANCE"
 

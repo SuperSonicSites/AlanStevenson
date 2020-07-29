@@ -23,7 +23,7 @@ vehicletag3: "Bateau"
 
 vehicledesc: "Que vous possédiez une voiture, un véhicule récréatif, un bateau, un camion ou tout autre type de véhicule, nous trouverons la meilleure solution pour répondre à vos besoins. Vous pourrez dormir tranquille, sachant que votre véhicule est protégé en cas de vol, vandalisme ou accident. Même si vous n’avez pas le meilleur dossier de conduite, dû à des circonstances comme une conduite avec les facultés affaiblies ou des réclamations antérieures, nous pouvons vous aider. Appelez-nous pour découvrir comment."
 
-carlink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=COURTAS&LANG=EN&LOB=AUTO"
+carlink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=COURTAS&LANG=FR&LOB=AUTO"
 
 businessh1: "ASSURANCE DES ENTREPRISES"
 
@@ -34,7 +34,6 @@ businesstag4: "À domicile"
 
 businessdesc: "Nous comprenons que vous mettez beaucoup d’efforts dans votre entreprise et la protéger devrait être une priorité. Peu importe votre modèle d’entreprise, qu’il s’agisse d’un produit ou d’un service, et quel que soit le type d’assurances dont vous ayez besoin, qu’il s’agisse d’assurance responsabilité, de propriété, pour une entreprise à domicile ou autre, nous pouvons trouver les meilleurs produits et solutions adaptés à votre entreprise et à vos besoins spécifiques."
 
-bizlink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=COURTAS&LANG=FR&LOB=PROP"
 
 lifeh1: "ASSURANCE-VIE"
 
@@ -46,6 +45,5 @@ lifetag5: "Invalidité"
 
 lifedesc: "Nous ne pouvons jamais prédire ce que la vie nous réserve et nous savons comment il est important de protéger vos proches. Notre offrons une gamme complète de produits pour vous protéger, vous et vos proches, advenant une situation imprévue ou inattendue. Qu’il s’agisse d’une assurance-vie entière, universelle ou temporaire, d’une assurance contre les maladies graves ou une assurance invalidité, nous pouvons vous aider à trouver les meilleures polices pour garantir votre paix d’esprit."
 
-lifelink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=COURTAS&LANG=FR&LOB=PROP"
 
 ---
