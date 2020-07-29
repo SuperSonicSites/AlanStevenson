@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+layout: privacy-policy
 ---
 ## Politique de Confidentialité
 
