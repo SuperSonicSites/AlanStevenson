@@ -32,9 +32,14 @@ googleAnalytics = "UA-173997177-1"
         weight = 4
 
         [[languages.fr.menu.main]]
+        name = "Portail"
+        url = "https://portalt02.csr24.ca/mvc/1245372799"
+        weight = 5
+
+        [[languages.fr.menu.main]]
         name = "Contact"
         url = "/contact/"
-        weight = 5
+        weight = 6
 
     [languages.en]
     languageCode = "en"
@@ -63,9 +68,14 @@ googleAnalytics = "UA-173997177-1"
         weight = 4
 
         [[languages.en.menu.main]]
+        name = "Portal"
+        url = "https://portalt02.csr24.ca/mvc/1245372799"
+        weight = 5
+
+        [[languages.en.menu.main]]
         name = "Contact"
         url = "/contact/"
-        weight = 5
+        weight = 6
 
 [params]
     # Schema Information
@@ -91,28 +101,3 @@ googleAnalytics = "UA-173997177-1"
   changefreq = "monthly"
   filename = "sitemap.xml"
     
-
-    [[menu.main]]
-        name = "Home"
-        url = "/"
-        weight = 1
-
-    [[menu.main]]
-        name = "About"
-        url = "/about/"
-        weight = 2
-
-    [[menu.main]]
-        name = "Services"
-        url = "/services/"
-        weight = 3
-
-    [[menu.main]]
-        name = "Claims"
-        url = "/claims/"
-        weight = 4
-
-    [[menu.main]]
-        name = "Contact"
-        url = "/contact/"
-        weight = 5

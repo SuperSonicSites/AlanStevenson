@@ -241,8 +241,8 @@ svg {
 
 nav a {
   color: black;
-  font-size: 1.05rem;
-  padding-left: 37px !important; }
+  font-size: 1rem;
+  padding-left: 30px !important; }
   nav a:hover {
     color: #c41313; }
 
@@ -271,11 +271,11 @@ nav .navbar-brand {
   .nav-logo {
     max-width: 220px; } }
 
-@media (min-width: 768px) {
+@media (min-width: 1024px) {
   .menu-wrap {
     display: none; } }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .desktopmenu {
     display: none !important; } }
 
@@ -436,12 +436,12 @@ nav .navbar-brand {
   filter: "alpha(opacity=100)";
   -ms-filter: "alpha(opacity=100)"; }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   #scroll {
     right: 10px;
     bottom: 40px; } }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1024px) {
   .nav-link {
     font-size: 32px !important;
     font-weight: 400; } }
