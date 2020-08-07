@@ -1,4 +1,4 @@
-baseURL = "https://alanstevenson.netlify.app/"
+baseURL = "https://www.alanstevenson.ca/"
 DefaultContentLanguage = "fr"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 googleAnalytics = ""
