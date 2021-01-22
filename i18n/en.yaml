@@ -35,6 +35,8 @@
   translation: "Free Quote"
 
 # Footer
+- id: partner
+  translation: "Proud partner of assurUni"
 - id: products
   translation: "products"
 - id: autoinsurance
