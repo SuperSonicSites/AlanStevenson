@@ -35,6 +35,8 @@
   translation: "Devis Gratuit"
 
 # Footer
+- id: partner
+  translation: "Fier partenaire d'assurUni"
 - id: products
   translation: "produits"
 - id: autoinsurance
