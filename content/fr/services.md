@@ -14,7 +14,7 @@ hometag2: "Immeuble à revenu"
 
 homedesc2: "Possédez-vous un immeuble à revenu pour des locations à court ou à long terme? Assurer ce genre de propriété implique certains critères spécifiques et bien comprendre vos options vous permettra de protéger votre investissement. Prenez rendez-vous avec nous pour découvrir comment nous pouvons vous aider."
 
-homelink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=COURTAS&LANG=FR&LOB=PROP"
+homelink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=ASSURUNI&LANG=FR&LOB=PROP&WFW=QCK"
 
 vehicleh1: "ASSURANCE AUTOMOBILE"
 
@@ -24,7 +24,7 @@ vehicletag3: "Bateau"
 
 vehicledesc: "Que vous possédiez une voiture, un véhicule récréatif, un bateau, un camion ou tout autre type de véhicule, nous trouverons la meilleure solution pour répondre à vos besoins. Vous pourrez dormir tranquille, sachant que votre véhicule est protégé en cas de vol, vandalisme ou accident. Même si vous n’avez pas le meilleur dossier de conduite, dû à des circonstances comme une conduite avec les facultés affaiblies ou des réclamations antérieures, nous pouvons vous aider. Appelez-nous pour découvrir comment."
 
-carlink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=COURTAS&LANG=FR&LOB=AUTO"
+carlink: "https://webrater.appliedsystems.com/WR/Default.aspx?GC=ASSURUNI&LANG=FR&LOB=AUTO&WFW=QCK"
 
 businessh1: "ASSURANCE DES ENTREPRISES"
 
